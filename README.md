@@ -1,2 +1,3 @@
 # Demo
-this is my first reps
+This is my first repos.
+Author is Garv Singh
